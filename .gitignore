@@ -3,5 +3,3 @@ node_modules/
 build/
 .DS_Store
 .Rproj.user
-components/world/assets
-*.glb
